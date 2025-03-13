@@ -10,7 +10,7 @@
   "author": "Frontier",
   "license": "GPL-3.0",
   "dependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.8.2",
     "azure-devops-node-api": "^13.0.0",
     "azure-pipelines-task-lib": "^4.4.0",
     "azure-pipelines-tasks-artifacts-common": "^2.230.0"
